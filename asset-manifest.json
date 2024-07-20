@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-mini-projects/static/css/main.ef2c4646.css",
-    "main.js": "/React-mini-projects/static/js/main.cc58c9c1.js",
-    "static/js/453.83bdee10.chunk.js": "/React-mini-projects/static/js/453.83bdee10.chunk.js",
-    "index.html": "/React-mini-projects/index.html",
-    "main.ef2c4646.css.map": "/React-mini-projects/static/css/main.ef2c4646.css.map",
-    "main.cc58c9c1.js.map": "/React-mini-projects/static/js/main.cc58c9c1.js.map",
-    "453.83bdee10.chunk.js.map": "/React-mini-projects/static/js/453.83bdee10.chunk.js.map"
+    "main.css": "/React-Mini-Projects/calculator/static/css/main.ef2c4646.css",
+    "main.js": "/React-Mini-Projects/calculator/static/js/main.3f8c3974.js",
+    "static/js/453.83bdee10.chunk.js": "/React-Mini-Projects/calculator/static/js/453.83bdee10.chunk.js",
+    "index.html": "/React-Mini-Projects/calculator/index.html",
+    "main.ef2c4646.css.map": "/React-Mini-Projects/calculator/static/css/main.ef2c4646.css.map",
+    "main.3f8c3974.js.map": "/React-Mini-Projects/calculator/static/js/main.3f8c3974.js.map",
+    "453.83bdee10.chunk.js.map": "/React-Mini-Projects/calculator/static/js/453.83bdee10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef2c4646.css",
-    "static/js/main.cc58c9c1.js"
+    "static/js/main.3f8c3974.js"
   ]
 }
